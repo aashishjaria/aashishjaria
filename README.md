@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aashishjaria
-- 👀 I’m interested in python, nextjs, aws
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in python, nextjs, amazon aws
+- 🌱 I’m currently learning amazon aws
 - 💞️ I’m looking to collaborate on my project automode
 - 📫 How to reach me ashishjaria@automode.ai
 
